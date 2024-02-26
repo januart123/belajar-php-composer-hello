@@ -4,7 +4,8 @@
     "type": "library",
     "authors": [
         {
-            "name": "Yanuar"
+            "name": "yanuarekaputera",
+            "email": "yanuarekaputera@gmail.com"
         }
     ],
     "require": {
